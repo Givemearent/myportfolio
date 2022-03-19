@@ -21,10 +21,10 @@
 
 @keyframes slider {
     0% {
-        background-image: url("images\cuba-g7fb6a0d47_1920.jpg");
+        background-image: url("https://github.com/Givemearent/myportfolio/blob/main/images/images/cuba-g7fb6a0d47_1920.jpg?raw=true");
     }
     25% {
-        background-image: url('images\cuba-g7fb6a0d47_1920.jpg');
+        background-image: url('https://github.com/Givemearent/myportfolio/blob/main/images/images/cuba-g7fb6a0d47_1920.jpg?raw=true');
     }
     25.01% {
         background-image: url('images\man-g5f002234c_1280.jpg');
