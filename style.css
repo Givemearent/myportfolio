@@ -190,7 +190,11 @@
     align-items: center; 
 }
 
-
+.row .container:focus,
+.row .container:hover {
+    z-index:1;
+    position: relative;
+}
 
 .row:hover {
     cursor: pointer;  
