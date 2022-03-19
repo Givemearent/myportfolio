@@ -248,7 +248,19 @@
 .image-overlay p {
     font-size:40px;
 }
-
+@media(max-width:600px) {
+    .image-overlay h3,p {
+        width:100%;
+        height:auto;
+        text-align:center;
+    }
+    .image-overlay p {
+        font-size:25px;
+    }
+    .image-overlay h3 {
+        font-size:32px;
+    }
+}
 
 .image-overlay h3,p {
     background: transparent; 
